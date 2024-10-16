@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.6](https://github.com/Jmainguy/hey.soh.re/compare/v1.0.5...v1.0.6) (2024-10-16)
+
+
+### Bug Fixes
+
+* update vendor and authors ([9172a6c](https://github.com/Jmainguy/hey.soh.re/commit/9172a6c691c70e6c6e1bdf685488f60b0ad3d5ce))
+
 ## [1.0.5](https://github.com/Jmainguy/hey.soh.re/compare/v1.0.4...v1.0.5) (2024-10-16)
 
 
