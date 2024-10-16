@@ -18,5 +18,5 @@ jobs:
     with:
       docker_url: zot.soh.re
       image_name: ${{ github.event.repository.name }}
-      authors: "Jonathan Seth mainguy <jon@soh.re>"
-      vendor: "https://jmainguy.com"
+      authors: "Jonathan Seth Mainguy <jon@soh.re>"
+      vendor: "Jmainguy"
