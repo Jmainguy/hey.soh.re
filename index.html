@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+
+    #myVideo {
+      width: 480px;
+      height: 360px;
+    }
+
+    #videoContainer {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    #videoInfo {
+      text-align: center;
+      margin-top: 40px;
+    }
+
+    #videoInfo p {
+      margin: 10px 0;
+    }
+
+    #videoInfo a {
+      color: #333;
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+
+    #videoInfo a:hover {
+      color: #ff6600;
+    }
+
+    #videoInfo p.credit {
+      font-size: 14px;
+      color: #777;
+    }
+
+    #videoInfo p.credit a {
+      color: #777;
+    }
+
+    #videoInfo p.credit a:hover {
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <div id="videoContainer">
+    <video controls autoplay loop id="myVideo">
+      <source src="hey.mp4" type="video/mp4">
+      Your browser does not support HTML5 video.
+    </video>
+  </div>
+
+  <div id="videoInfo">
+    <p>
+      Credit to <a href="https://slackcircus.com/">Slackcircus</a> for creating the video
+    </p>
+    <p>
+      See the original longer version on <a href="https://www.youtube.com/watch?v=FR7wOGyAzpw">YouTube</a>
+    </p>
+    <p class="credit">
+      Which is, of course, a cover of <a href="https://www.youtube.com/watch?v=6NXnxTNIWkc">4 Non Blondes - What's Up</a>
+    </p>
+  </div>
+</body>
+</html>
