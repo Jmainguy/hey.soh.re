@@ -11,10 +11,12 @@ permissions:
 
 jobs:
   release-please:
-    uses: Jmainguy/docker-workflows/.github/workflows/docker-release.yml@v1
+    uses: Jmainguy/docker-workflows/.github/workflows/docker-release.yml@v2
     secrets:
       docker_username: ${{ secrets.DOCKER_USERNAME }}
       docker_password: ${{ secrets.DOCKER_PASSWORD }}
     with:
       docker_url: zot.soh.re
       image_name: ${{ github.event.repository.name }}
+      authors: "Jonathan Seth mainguy <jon@soh.re>"
+      vendor: "https://jmainguy.com"
