@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/Jmainguy/hey.soh.re/compare/v1.0.4...v1.0.5) (2024-10-16)
+
+
+### Bug Fixes
+
+* trigger release ([44b2072](https://github.com/Jmainguy/hey.soh.re/commit/44b20722692556c6843f464d7fa40163e720d9d3))
+
 ## [1.0.4](https://github.com/Jmainguy/hey.soh.re/compare/v1.0.3...v1.0.4) (2024-10-16)
 
 
