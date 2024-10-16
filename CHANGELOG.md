@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/Jmainguy/hey.soh.re/compare/v1.0.3...v1.0.4) (2024-10-16)
+
+
+### Bug Fixes
+
+* add metadata to container ([6320a5a](https://github.com/Jmainguy/hey.soh.re/commit/6320a5a5bd3c05d1cb65053218efd6e841aca1a7))
+
 ## [1.0.3](https://github.com/Jmainguy/hey.soh.re/compare/v1.0.2...v1.0.3) (2024-10-16)
 
 
