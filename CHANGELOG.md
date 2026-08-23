@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/Jmainguy/hey.soh.re/compare/v1.0.6...v2.0.0) (2026-08-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* publish signed namespaced image
+
+### Features
+
+* publish signed namespaced image ([f1aa8a4](https://github.com/Jmainguy/hey.soh.re/commit/f1aa8a48ae689b392c0a630a6adbcec488a7c25f))
+
 ## [1.0.6](https://github.com/Jmainguy/hey.soh.re/compare/v1.0.5...v1.0.6) (2024-10-16)
 
 
