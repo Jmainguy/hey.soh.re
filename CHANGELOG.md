@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/Jmainguy/hey.soh.re/compare/v2.0.0...v2.0.1) (2026-08-23)
+
+
+### Bug Fixes
+
+* use Zot-compatible Docker release workflow ([c634408](https://github.com/Jmainguy/hey.soh.re/commit/c6344087653b7cecf6d6aa0ab020ba10ebd2dedb))
+
 ## [2.0.0](https://github.com/Jmainguy/hey.soh.re/compare/v1.0.6...v2.0.0) (2026-08-23)
 
 
