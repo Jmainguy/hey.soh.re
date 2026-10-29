@@ -1,5 +1,5 @@
 # Minimal, non-root image pinned for reproducible builds and Renovate updates.
-FROM cgr.dev/chainguard/nginx@sha256:a104d1995e56b7a15e8f152078dfbdb1ecbf9f9d1af311e7906e7b4c0c790cf2
+FROM cgr.dev/chainguard/nginx@sha256:16d0e55ffe62f55744d9b903d8eb57e533d0f660332a9fbb967d78b4e77c8bdb
 
 # Copy files to the correct location and set appropriate permissions
 COPY --chown=nginx:nginx  index.html favicon.ico hey.mp4 /usr/share/nginx/html/
